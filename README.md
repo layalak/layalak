@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @layalak
-- 👀 I’m interested in full stack dev
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data scince and data Visualization
 - 📫 How to reach me? by email: layal.algadri@gmail.com
 
 <!---
